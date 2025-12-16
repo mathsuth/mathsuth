@@ -8,10 +8,11 @@
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />                    
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
+<img align="center" src="https://media1.tenor.com/m/KE7Bp60JCOwAAAAd/snufkin-moomin.gif" />
 </div>               
 
-<img align="center" src="https://media1.tenor.com/m/KE7Bp60JCOwAAAAd/snufkin-moomin.gif" />
 
-                                                                                                                                                    **be calm, be frosty.**
+
+                                                                                                                                                 
 
 
