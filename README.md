@@ -1,5 +1,5 @@
-# Hi my name is Matheus, but call me math 🙃
-####**The future is over here**
+# Hi my name is Matheus!
+#### **The future is over here**
 ![mathsuth's Stats](https://github-readme-stats.vercel.app/api?username=mathsuth&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![mathsuth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathsuth&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
