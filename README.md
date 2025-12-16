@@ -10,5 +10,8 @@
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
 </div>               
 
-<img align="right" src="https://media1.tenor.com/m/KE7Bp60JCOwAAAAd/snufkin-moomin.gif" />
-#### **be calm, be frosty.**
+<img align="center" src="https://media1.tenor.com/m/KE7Bp60JCOwAAAAd/snufkin-moomin.gif" />
+
+                                                                                                                                                    **be calm, be frosty.**
+
+
