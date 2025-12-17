@@ -1,6 +1,4 @@
-[![Wave](https://capsule-render.vercel.app/api?type=waving&height=150&color=009600&fontAlign=42&fontAlignY=36&reversal=false&section=header)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&duration=6000&pause=1000&color=0CB301&random=true&width=435&lines=Hi!+i'm+Matheus%2C+but+call+me+math...)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&duration=6000&pause=1000&color=0CB301&random=true&width=435&lines=Hi!+i'm+Matheus%2C+but+call+me+math...)](https://git.io/typing-svg)
 #### **The future is over here**
 ![mathsuth's Stats](https://github-readme-stats.vercel.app/api?username=mathsuth&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 ![mathsuth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathsuth&theme=gotham&show_icons=true&hide_border=false&layout=compact)
