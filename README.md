@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sekuya&size=15&pause=1000&color=0CB301&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Hi!+i'm+Matheus%2C+but+call+me+math...)](https://git.io/typing-svg)
 #### **The future is over here**
 ![mathsuth's Stats](https://github-readme-stats.vercel.app/api?username=mathsuth&theme=gotham&show_icons=true&hide_border=false&count_private=true)
-![mathsuth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathsuth&theme=gotham&hide_border=false)
 ![mathsuth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathsuth&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 <div style= display: inline_block"><br> 
