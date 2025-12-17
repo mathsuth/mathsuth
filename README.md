@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue+&pause=1000&color=28a385&random=true&width=435&lines=Hi!+i'm+Matheus%2C+but+call+me+math...)](https://git.io/typing-svg)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue+&size=14&pause=1000&color=28A385&multiline=true&repeat=false&random=true&width=435&lines=The+future+is+over+here!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue+&size=14&pause=1000&color=28A385&multiline=true&repeat=false&random=true&width=435&lines=The+future+is+over+here!" alt="Typing SVG" /></a>
 
 
 
