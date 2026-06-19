@@ -35,7 +35,7 @@ Right now, I'm learning to program – turning my passion into a skill. My curre
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=mathsuth&show_icons=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=3600" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsuth&layout=compact&bg_color=000000&title_color=00ff00&text_color=00ff00&hide_title=true&count_private=true&cache_seconds=3600" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsuth&layout=compact&bg_color=000000&title_color=00ff00&text_color=00ff00&hide_title=true&count_private=true&langs_count=6&hide=html,css&cache_seconds=3600" />
   </a>
 </p>
 
@@ -56,6 +56,7 @@ Right now, I'm learning to program – turning my passion into a skill. My curre
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathsuth&repo=challenge-dio&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00)](https://github.com/mathsuth/challenge-dio)
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mathsuth&color=00ff00&style=flat-square" alt="Profile views" />
 </p>
