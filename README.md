@@ -28,16 +28,22 @@ Right now, I'm learning to program – turning my passion into a skill. My curre
 
 ---
 
-### 📊 GitHub Stats (Green & Black theme)
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=mathsuth&show_icons=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=3600" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsuth&layout=compact&bg_color=000000&title_color=00ff00&text_color=00ff00&hide_title=true&count_private=true&langs_count=6&hide=html,css&cache_seconds=3600" />
-  </a>
 </p>
+
+### 📦 Languages in my main repository
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/mathsuth/challenge-dio?color=00ff00&style=for-the-badge" alt="Top language" />
+  <img src="https://img.shields.io/github/languages/count/mathsuth/challenge-dio?color=00ff00&style=for-the-badge" alt="Languages count" />
+</p>
+
+> *Nota: Os badges acima dependem da detecção de linguagens pelo GitHub. Se ainda não aparecerem, aguarde alguns minutos ou faça um novo commit com um arquivo na raiz (ex: `hello.py`).*
 
 ---
 
