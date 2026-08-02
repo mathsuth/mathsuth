@@ -60,13 +60,6 @@ Right now, I'm learning to program – turning my passion into a skill. My curre
 </p>
 
 ---
-
-### 📌 Featured Project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathsuth&repo=challenge-dio&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00)](https://github.com/mathsuth/challenge-dio)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mathsuth&color=00ff00&style=flat-square" alt="Profile views" />
 </p>
