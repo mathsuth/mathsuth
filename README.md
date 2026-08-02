@@ -12,7 +12,7 @@
 
 I'm someone who lives and breathes the internet. I deeply understand how it works, how to protect privacy, and how to stay anonymous online. I'm a tech geek at heart, always curious about systems, networks, and how things tick under the hood.
 
-Right now, I'm learning to program – turning my passion into a skill. My current focus is on **Python**, **Rust**, and **Shell Scripting**. In the future, I plan to channel all this knowledge into **Cybersecurity**, where I can combine my love for tech with a meaningful mission.
+Right now, I'm learning to program – turning my passion into a skill. My current focus is on **Programming*. In the future, I plan to channel all this knowledge into **Cybersecurity**, where I can combine my love for tech with a meaningful mission.
 
 > *For now, just a hobby – but in the future, a career.*
 
