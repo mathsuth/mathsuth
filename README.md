@@ -2,8 +2,6 @@
 
 <p align="center">
   <em>Internet & privacy enthusiast • Geek • Tech lover<br>
-  Now diving into code – Python, Rust, and Bash<br>
-  Future goal: Cybersecurity</em>
 </p>
 
 ---
